@@ -1,7 +1,7 @@
 
 
 # **👋🏽 Hi, I’m Anup**
-### I am a **Data Scientist** by trade, though this public facing repository is a testament of furthering my skills as a **Polymath**
+### I am a **Data Scientist** by trade, though this public-facing repository is a testament of furthering my skills as a **Polymath**
 
 - 🎓Dual Degrees.
   - [BS] Mathematics
