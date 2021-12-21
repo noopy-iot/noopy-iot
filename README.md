@@ -1,6 +1,6 @@
 
 
-# 👋 **Hi, I’m Anup**
+# **👋🏽 Hi, I’m Anup**
 ### I am a **Data Scientist** by trade, though this repository is a testament of furthering my skills as a **Polymath**
 
 - 🎓Dual Degrees.
