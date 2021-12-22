@@ -1,7 +1,8 @@
 
 
 # **👋🏽 Hi, I’m Anup**
-### I'm a **Data Scientist**, and an SME on CMS Medicaid and Medicare data, Healthcare Metrics, and Distributed Data Analysis on large-scale Linux clusters. I usually work on my private Gitlab server, but this Github profile serves as my public-facing git repository.
+## I'm a **Data Scientist**, and an SME on CMS Medicaid and Medicare data, Healthcare Metrics, and Distributed Data Analysis on large-scale Linux clusters. 
+### I usually work on my private Gitlab server, but this Github profile serves as my public-facing git repository.
 
 - 🎓Dual Degrees.
   - [BS] Mathematics
