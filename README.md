@@ -19,7 +19,7 @@
   - Secure Linux based VMs + containers
   - open-source style collaborative programming
 ---
-<span style="color:white">some *Venn Diagram of my work interests for dark mode legends:* text</span>
+**Venn Diagram of my work interests for dark mode legends:**
 <img src="static/venn.png" size="1000">
 <!---
 noopy-iot/noopy-iot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
